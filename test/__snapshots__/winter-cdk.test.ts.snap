@@ -10,10 +10,10 @@ exports[`Test WinterCameraStack 1`] = `
     },
   },
   "Resources": {
-    "WinterModelConstructwintermodeldataundefined4569B693": {
+    "WinterModelConstructwintermodeldata2E22608D": {
       "DeletionPolicy": "Retain",
       "Properties": {
-        "BucketName": "winter-model-data-undefined",
+        "BucketName": "winter-model-data",
         "PublicAccessBlockConfiguration": {
           "BlockPublicAcls": true,
           "BlockPublicPolicy": true,

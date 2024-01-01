@@ -6,4 +6,7 @@ CDK Package for AWS CDK Resources for Winter Project
 
 ```bash
 ./bin/deploy
+
+# Update unit-test
+npm test -- -u
 ```
